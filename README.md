@@ -10,16 +10,6 @@ Built with modular Python scripts for easy extension
 
 CLI-ready for integration into automation or pipelines
 
-Directory Structure
-github-stats-api-cli/
-├── github_stats/ → Python package
-│ ├── init.py
-│ ├── fetcher.py → Handles API calls
-│ └── formatter.py → Formats response output
-├── main.py → CLI runner
-├── requirements.txt → Python dependencies
-├── README.md → Project documentation
-
 Setup Instructions
 Clone the repository or download the folder
 
